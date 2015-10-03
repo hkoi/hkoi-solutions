@@ -13,24 +13,23 @@ var groups = ['senior', 'junior'];
 for (var i = years.length - 1; i >= 0; i--) {
     var year = years[i];
     process.stdout.write('#' + year + '\n');
-    process.stdout.write('<table>' + '\n');
     for (var group in groups) {
         for (var taskseq in solutions[year][groups[group]]) {
             var task = solutions[year][groups[group]][taskseq];
-            process.stdout.write('<tr><td>' + task['id'] + '</td>');
-            process.stdout.write('<td>' + task['name_en'] + '</td>');
+            process.stdout.write('| ' + task['id'] + ' | ');
+            process.stdout.write(task['name_en'] + ' | ');
             if (task['code']) {
-                process.stdout.write('<td>[Pascal](' + year + '/' + task['id'] + '.pas) ');
-                process.stdout.write('[C++](' + year + '/' + task['id'] + '.cpp)</td>');
+                process.stdout.write('[Pascal](' + year + '/' + task['id'] + '.pas) ');
+                process.stdout.write('[C++](' + year + '/' + task['id'] + '.cpp) | ');
             } else {
-                process.stdout.write('<td></td>');
+                process.stdout.write(' | ');
             }
             if (task['slides']) {
-                process.stdout.write('<td>[Slides](' + task['slides'] + ')</td></tr>\n');
+                process.stdout.write('[Slides](' + task['slides'] + ') |\n');
             } else {
-                process.stdout.write('<td></td></tr>\n');
+                process.stdout.write(' |\n');
             }
         }
     }
-    process.stdout.write('</table>\n');
+    process.stdout.write('\n');
 }
