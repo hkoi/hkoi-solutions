@@ -12,7 +12,7 @@ var years = Object.keys(solutions);
 var groups = ['senior', 'junior'];
 for (var i = years.length - 1; i >= 0; i--) {
     var year = years[i];
-    process.stdout.write('#' + year + '\n\n| ID | Name | Code | Slides |\n|-|-|-|-|\n');
+    process.stdout.write('#' + year + '\n\n| ID | Name | Code | Slides |\n| ------ | ------ | ------ | ------ |\n');
     for (var group in groups) {
         for (var taskseq in solutions[year][groups[group]]) {
             var task = solutions[year][groups[group]][taskseq];

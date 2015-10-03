@@ -3,8 +3,8 @@
         "senior": [
             {
                 "id": "S150",
-                "name_en": "Enumeration (201415 Senior)",
-                "name_zh": "枚舉 (201415 高級組)",
+                "name_en": "Enumeration (2014/15 Senior)",
+                "name_zh": "枚舉 (2014/15 高級組)",
                 "code": false,
                 "slides": false
             },
@@ -40,8 +40,8 @@
         "junior": [
             {
                 "id": "J150",
-                "name_en": "Enumeration (201415 Junior)",
-                "name_zh": "枚舉 (201415 初級組)",
+                "name_en": "Enumeration (2014/15 Junior)",
+                "name_zh": "枚舉 (2014/15 初級組)",
                 "code": false,
                 "slides": false
             },
