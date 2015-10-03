@@ -6,7 +6,7 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 
 ##Solutions
 
-#2014/15
+###2014/15
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
@@ -21,7 +21,7 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | J153 | Insert Delete | [Pascal](201415/J153.pas) [C++](201415/J153.cpp) | [Slides](http://assets.hkoi.org/training2015/jun3.pdf) |
 | J154 | Father's Will | [Pascal](201415/J154.pas) [C++](201415/J154.cpp) | [Slides](http://assets.hkoi.org/training2015/jun4.pdf) |
 
-#2014
+###2014
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
@@ -36,7 +36,7 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | J143 | Power Socket | [Pascal](2014/J143.pas) [C++](2014/J143.cpp) | [Slides](http://assets.hkoi.org/training2014/jq3.pdf) |
 | J144 | Fair Santa Claus |  | [Slides](http://assets.hkoi.org/training2014/jq4.pdf) |
 
-#2013
+###2013
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
@@ -49,7 +49,7 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | J133 | Dryads |  | [Slides](http://assets.hkoi.org/training2013/jun3.pdf) |
 | J134 | Lucky Rainbow |  | [Slides](http://assets.hkoi.org/solutions/2133.pptx) |
 
-#2012
+###2012
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
@@ -62,7 +62,7 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | J123 | Cheating Dice |  | [Slides](http://assets.hkoi.org/training2012/Dice.pptx) |
 | J124 | Penicillin |  | [Slides](http://assets.hkoi.org/training2012/Penicillin.ppt) |
 
-#2011
+###2011
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
@@ -75,7 +75,7 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | J113 | Factor Factory |  | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
 | J114 | Pyramid |  | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
 
-#2010
+###2010
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
@@ -88,7 +88,7 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | J103 | Insect Galore |  | [Slides](http://assets.hkoi.org/training2010/insect.pptx) |
 | J104 | Reading Books |  | [Slides](http://assets.hkoi.org/training2010/score.pptx) |
 
-#2009
+###2009
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
@@ -101,7 +101,7 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | J093 | Necklace |  |  |
 | J094 | Full |  | [Slides](http://assets.hkoi.org/solutions/2093.pptx) |
 
-#2008
+###2008
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
@@ -114,7 +114,7 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | J083 | Count 1s |  | [Slides](http://assets.hkoi.org/training2008/01_sol_jq3.ppt) |
 | J084 | Who Moved My Cheese |  | [Slides](http://assets.hkoi.org/training2008/01_sol_jq4.ppt) |
 
-#2007
+###2007
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
@@ -127,7 +127,7 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | J073 | Shuttle Bus |  |  |
 | J074 | Best Plan |  |  |
 
-#2006
+###2006
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
@@ -140,7 +140,7 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | J063 | Sudoku |  | [Slides](http://assets.hkoi.org/training2006/01_sol_j3.ppt) |
 | J064 | Cave Adventures |  | [Slides](http://assets.hkoi.org/training2006/01_sol_j4.ppt) |
 
-#2005
+###2005
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
@@ -153,7 +153,7 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | J053 | Word Wrap |  | [Slides](http://assets.hkoi.org/training2005/01_sol_j3.ppt) |
 | J054 | Competition |  | [Slides](http://assets.hkoi.org/training2005/01_sol_j4.pdf) |
 
-#2004
+###2004
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
