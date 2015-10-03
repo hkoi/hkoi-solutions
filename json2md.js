@@ -1,6 +1,6 @@
 fs = require("fs");
 
-process.stdout.write('#HKOI Final Event Solutions\n\n##License\n\n');
+process.stdout.write('#HKOI Final Event Solutions\n\n##License for source codes in this repository\n\n');
 process.stdout.write('Creative Commons Attribution-ShareAlike 4.0 International. ');
 process.stdout.write('The full text of the license is available at ');
 process.stdout.write('https://creativecommons.org/licenses/by-sa/4.0/legalcode.');
@@ -19,8 +19,8 @@ for (var i = years.length - 1; i >= 0; i--) {
             process.stdout.write('| ' + task['id'] + ' | ');
             process.stdout.write(task['name_en'] + ' | ');
             if (task['code']) {
-                process.stdout.write('[Pascal](' + year + '/' + task['id'] + '.pas) ');
-                process.stdout.write('[C++](' + year + '/' + task['id'] + '.cpp) | ');
+                process.stdout.write('[Pascal](' + year.replace('/', '') + '/' + task['id'] + '.pas) ');
+                process.stdout.write('[C++](' + year.replace('/', '') + '/' + task['id'] + '.cpp) | ');
             } else {
                 process.stdout.write(' | ');
             }

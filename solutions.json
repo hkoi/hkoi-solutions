@@ -5,21 +5,21 @@
                 "id": "S150",
                 "name_en": "Enumeration (2014/15 Senior)",
                 "name_zh": "枚舉 (2014/15 高級組)",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
                 "id": "S151",
                 "name_en": "Promotion Period",
                 "name_zh": "大宣傳",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2015/sen1.pdf"
             },
             {
                 "id": "S152",
                 "name_en": "Apple Garden",
                 "name_zh": "蘋果莊園",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2015/sen2.pdf"
             },
             {
@@ -42,35 +42,35 @@
                 "id": "J150",
                 "name_en": "Enumeration (2014/15 Junior)",
                 "name_zh": "枚舉 (2014/15 初級組)",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
                 "id": "J151",
                 "name_en": "Inverse Problem",
                 "name_zh": "逆向問題",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2015/jun1.pdf"
             },
             {
                 "id": "J152",
                 "name_en": "Royal Bodyguard",
                 "name_zh": "皇家護衛",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
                 "id": "J153",
                 "name_en": "Insert Delete",
                 "name_zh": "插入刪除",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2015/jun3.pdf"
             },
             {
                 "id": "J154",
                 "name_en": "Father's Will",
                 "name_zh": "父親的遺願",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2015/jun4.pdf"
             }
         ]

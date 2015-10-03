@@ -1,6 +1,6 @@
 #HKOI Final Event Solutions
 
-##License
+##License for source codes in this repository
 
 Creative Commons Attribution-ShareAlike 4.0 International. The full text of the license is available at https://creativecommons.org/licenses/by-sa/4.0/legalcode.
 
@@ -10,16 +10,16 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
-| S150 | Enumeration (2014/15 Senior) |  |  |
-| S151 | Promotion Period |  | [Slides](http://assets.hkoi.org/training2015/sen1.pdf) |
-| S152 | Apple Garden |  | [Slides](http://assets.hkoi.org/training2015/sen2.pdf) |
+| S150 | Enumeration (2014/15 Senior) | [Pascal](201415/S150.pas) [C++](201415/S150.cpp) |  |
+| S151 | Promotion Period | [Pascal](201415/S151.pas) [C++](201415/S151.cpp) | [Slides](http://assets.hkoi.org/training2015/sen1.pdf) |
+| S152 | Apple Garden | [Pascal](201415/S152.pas) [C++](201415/S152.cpp) | [Slides](http://assets.hkoi.org/training2015/sen2.pdf) |
 | S153 | Secret Message |  | [Slides](http://assets.hkoi.org/training2015/sen3.pdf) |
 | S154 | Monster Arena |  | [Slides](http://assets.hkoi.org/training2015/sen4.pdf) |
-| J150 | Enumeration (2014/15 Junior) |  |  |
-| J151 | Inverse Problem |  | [Slides](http://assets.hkoi.org/training2015/jun1.pdf) |
-| J152 | Royal Bodyguard |  |  |
-| J153 | Insert Delete |  | [Slides](http://assets.hkoi.org/training2015/jun3.pdf) |
-| J154 | Father's Will |  | [Slides](http://assets.hkoi.org/training2015/jun4.pdf) |
+| J150 | Enumeration (2014/15 Junior) | [Pascal](201415/J150.pas) [C++](201415/J150.cpp) |  |
+| J151 | Inverse Problem | [Pascal](201415/J151.pas) [C++](201415/J151.cpp) | [Slides](http://assets.hkoi.org/training2015/jun1.pdf) |
+| J152 | Royal Bodyguard | [Pascal](201415/J152.pas) [C++](201415/J152.cpp) |  |
+| J153 | Insert Delete | [Pascal](201415/J153.pas) [C++](201415/J153.cpp) | [Slides](http://assets.hkoi.org/training2015/jun3.pdf) |
+| J154 | Father's Will | [Pascal](201415/J154.pas) [C++](201415/J154.cpp) | [Slides](http://assets.hkoi.org/training2015/jun4.pdf) |
 
 #2014
 
