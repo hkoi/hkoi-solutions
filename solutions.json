@@ -1,0 +1,774 @@
+{
+    "2014/15": {
+        "senior": [
+            {
+                "id": "S150",
+                "name_en": "Enumeration (201415 Senior)",
+                "name_zh": "枚舉 (201415 高級組)",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "S151",
+                "name_en": "Promotion Period",
+                "name_zh": "大宣傳",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2015/sen1.pdf"
+            },
+            {
+                "id": "S152",
+                "name_en": "Apple Garden",
+                "name_zh": "蘋果莊園",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2015/sen2.pdf"
+            },
+            {
+                "id": "S153",
+                "name_en": "Secret Message",
+                "name_zh": "秘密訊息",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2015/sen3.pdf"
+            },
+            {
+                "id": "S154",
+                "name_en": "Monster Arena",
+                "name_zh": "妖魔擂台",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2015/sen4.pdf"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J150",
+                "name_en": "Enumeration (201415 Junior)",
+                "name_zh": "枚舉 (201415 初級組)",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "J151",
+                "name_en": "Inverse Problem",
+                "name_zh": "逆向問題",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2015/jun1.pdf"
+            },
+            {
+                "id": "J152",
+                "name_en": "Royal Bodyguard",
+                "name_zh": "皇家護衛",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "J153",
+                "name_en": "Insert Delete",
+                "name_zh": "插入刪除",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2015/jun3.pdf"
+            },
+            {
+                "id": "J154",
+                "name_en": "Father's Will",
+                "name_zh": "父親的遺願",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2015/jun4.pdf"
+            }
+        ]
+    },
+    "2014": {
+        "senior": [
+            {
+                "id": "S140",
+                "name_en": "Enumeration (2014 Senior)",
+                "name_zh": "枚舉 (2014 高級組)",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "S141",
+                "name_en": "Dividing the Cities",
+                "name_zh": "城市分配",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "S142",
+                "name_en": "Gene Mutation 2",
+                "name_zh": "基因突變二",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2014/sq2.pptx"
+            },
+            {
+                "id": "S143",
+                "name_en": "Input Method",
+                "name_zh": "輸入法",
+                "code": true,
+                "slides": "http://assets.hkoi.org/training2014/sq3.pdf"
+            },
+            {
+                "id": "S144",
+                "name_en": "Pharmaceutical Company",
+                "name_zh": "製藥公司",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2014/sq4.pptx"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J140",
+                "name_en": "Enumeration (2014 Junior)",
+                "name_zh": "枚舉 (2014 初級組)",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "J141",
+                "name_en": "Phone Menu",
+                "name_zh": "電話目錄",
+                "code": true,
+                "slides": false
+            },
+            {
+                "id": "J142",
+                "name_en": "Magic Stones",
+                "name_zh": "魔法石",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2014/jq2.pptx"
+            },
+            {
+                "id": "J143",
+                "name_en": "Power Socket",
+                "name_zh": "電源插頭",
+                "code": true,
+                "slides": "http://assets.hkoi.org/training2014/jq3.pdf"
+            },
+            {
+                "id": "J144",
+                "name_en": "Fair Santa Claus",
+                "name_zh": "公平的聖誕老人",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2014/jq4.pdf"
+            }
+        ]
+    },
+    "2013": {
+        "senior": [
+            {
+                "id": "S131",
+                "name_en": "Bacteria Research",
+                "name_zh": "細菌研究",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2013/sen1.pdf"
+            },
+            {
+                "id": "S132",
+                "name_en": "Safe Storage",
+                "name_zh": "保險箱儲藏",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2013/sen2.pdf"
+            },
+            {
+                "id": "S133",
+                "name_en": "TB",
+                "name_zh": "結核病",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "S134",
+                "name_en": "Unfair Santa Claus",
+                "name_zh": "不公平的聖誕老人",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2013/sen4.pdf"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J131",
+                "name_en": "Strategy Steps",
+                "name_zh": "策略階梯",
+                "code": false,
+                "slides": "http://assets.hkoi.org/solutions/2130.pptx"
+            },
+            {
+                "id": "J132",
+                "name_en": "Queueing",
+                "name_zh": "排隊輪候",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2013/jun2.pptx"
+            },
+            {
+                "id": "J133",
+                "name_en": "Dryads",
+                "name_zh": "森林精靈",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2013/jun3.pdf"
+            },
+            {
+                "id": "J134",
+                "name_en": "Lucky Rainbow",
+                "name_zh": "幸運彩虹",
+                "code": false,
+                "slides": "http://assets.hkoi.org/solutions/2133.pptx"
+            }
+        ]
+    },
+    "2012": {
+        "senior": [
+            {
+                "id": "S121",
+                "name_en": "Infinite Coding",
+                "name_zh": "無限編程",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2012/Infinite%20Coding.pdf"
+            },
+            {
+                "id": "S122",
+                "name_en": "Toothpicks",
+                "name_zh": "牙籤",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2012/Toothpick.pdf"
+            },
+            {
+                "id": "S123",
+                "name_en": "Songs",
+                "name_zh": "歌曲",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2012/Songs.pptx"
+            },
+            {
+                "id": "S124",
+                "name_en": "Gene Mutation",
+                "name_zh": "基因突變",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2012/GeneMutation.ppt"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J121",
+                "name_en": "Outstanding Integer",
+                "name_zh": "優秀的整數",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "J122",
+                "name_en": "Hotel",
+                "name_zh": "酒店",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "J123",
+                "name_en": "Cheating Dice",
+                "name_zh": "大話骰",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2012/Dice.pptx"
+            },
+            {
+                "id": "J124",
+                "name_en": "Penicillin",
+                "name_zh": "青黴素",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2012/Penicillin.ppt"
+            }
+        ]
+    },
+    "2011": {
+        "senior": [
+            {
+                "id": "S111",
+                "name_en": "Nuclear Reactor",
+                "name_zh": "核能反應器",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
+            },
+            {
+                "id": "S112",
+                "name_en": "Spectrum Identification",
+                "name_zh": "光譜辨認",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
+            },
+            {
+                "id": "S113",
+                "name_en": "Gravity Game",
+                "name_zh": "重力遊戲",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
+            },
+            {
+                "id": "S114",
+                "name_en": "Circular Circuit",
+                "name_zh": "環廻電路",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J111",
+                "name_en": "WippiLeaks",
+                "name_zh": "維特解密",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
+            },
+            {
+                "id": "J112",
+                "name_en": "Housekeeper",
+                "name_zh": "侍從的煩惱",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
+            },
+            {
+                "id": "J113",
+                "name_en": "Factor Factory",
+                "name_zh": "因數工廠",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
+            },
+            {
+                "id": "J114",
+                "name_en": "Pyramid",
+                "name_zh": "金字塔",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
+            }
+        ]
+    },
+    "2010": {
+        "senior": [
+            {
+                "id": "S101",
+                "name_en": "Squares Dartboard",
+                "name_zh": "方形標靶",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "S102",
+                "name_en": "Igloo",
+                "name_zh": "冰上遠足",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2010/igloo.pptx"
+            },
+            {
+                "id": "S103",
+                "name_en": "Flexibility",
+                "name_zh": "靈敏度",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2010/s3.pdf"
+            },
+            {
+                "id": "S104",
+                "name_en": "OI Football Team",
+                "name_zh": "電腦奧林匹克足球隊",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2010/s4.pdf"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J101",
+                "name_en": "Numpad",
+                "name_zh": "數字鍵盤",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "J102",
+                "name_en": "Quest for Polar Bear",
+                "name_zh": "尋熊冒險記",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2010/quest.pptx"
+            },
+            {
+                "id": "J103",
+                "name_en": "Insect Galore",
+                "name_zh": "豐富的昆蟲",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2010/insect.pptx"
+            },
+            {
+                "id": "J104",
+                "name_en": "Reading Books",
+                "name_zh": "看書",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2010/score.pptx"
+            }
+        ]
+    },
+    "2009": {
+        "senior": [
+            {
+                "id": "S091",
+                "name_en": "Colored Balls",
+                "name_zh": "顏色球",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "S092",
+                "name_en": "Santa's Gifts",
+                "name_zh": "聖誕禮物",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "S093",
+                "name_en": "Posters",
+                "name_zh": "海報",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "S094",
+                "name_en": "Reaching the Destination",
+                "name_zh": "向終點邁進",
+                "code": false,
+                "slides": false
+            }
+        ],
+        "junior": [
+            {
+                "id": "J091",
+                "name_en": "Set Union",
+                "name_zh": "集合並集",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "J092",
+                "name_en": "Dictionary",
+                "name_zh": "字典",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "J093",
+                "name_en": "Necklace",
+                "name_zh": "五彩繽紛的項鍊",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "J094",
+                "name_en": "Full",
+                "name_zh": "滿",
+                "code": false,
+                "slides": "http://assets.hkoi.org/solutions/2093.pptx"
+            }
+        ]
+    },
+    "2008": {
+        "senior": [
+            {
+                "id": "S081",
+                "name_en": "Black Day",
+                "name_zh": "黑色日子",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "S082",
+                "name_en": "Shy Tortoise",
+                "name_zh": "害羞的小烏龜",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2008/01_sol_sq2.ppt"
+            },
+            {
+                "id": "S083",
+                "name_en": "Storage Box",
+                "name_zh": "貯物箱",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2008/01_sol_sq3.ppt"
+            },
+            {
+                "id": "S084",
+                "name_en": "Defense Line",
+                "name_zh": "防衛線",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2008/01_sol_sq4.ppt"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J081",
+                "name_en": "Simple Calculator",
+                "name_zh": "簡單運算",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "J082",
+                "name_en": "Joining Metal Chains",
+                "name_zh": "鐵鍊接合",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "J083",
+                "name_en": "Count 1s",
+                "name_zh": "「1」的數量",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2008/01_sol_jq3.ppt"
+            },
+            {
+                "id": "J084",
+                "name_en": "Who Moved My Cheese",
+                "name_zh": "誰動了我的乳酪",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2008/01_sol_jq4.ppt"
+            }
+        ]
+    },
+    "2007": {
+        "senior": [
+            {
+                "id": "S071",
+                "name_en": "Storage Centre",
+                "name_zh": "貯存中心",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2007/01_sol_sq1.ppt"
+            },
+            {
+                "id": "S072",
+                "name_en": "Partners",
+                "name_zh": "伙伴",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2007/01_sol_sq2.ppt"
+            },
+            {
+                "id": "S073",
+                "name_en": "SOS",
+                "name_zh": "求救訊號",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2007/01_sol_sq3.pdf"
+            },
+            {
+                "id": "S074",
+                "name_en": "Meet in the Middle",
+                "name_zh": "中途相遇",
+                "code": false,
+                "slides": false
+            }
+        ],
+        "junior": [
+            {
+                "id": "J071",
+                "name_en": "Zoo Planning",
+                "name_zh": "動物園規劃",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2007/01_sol_jq1.pdf"
+            },
+            {
+                "id": "J072",
+                "name_en": "Little Stage",
+                "name_zh": "小舞台",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2007/01_sol_jq2.ppt"
+            },
+            {
+                "id": "J073",
+                "name_en": "Shuttle Bus",
+                "name_zh": "穿梭巴士",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "J074",
+                "name_en": "Best Plan",
+                "name_zh": "最佳收費計劃",
+                "code": false,
+                "slides": false
+            }
+        ]
+    },
+    "2006": {
+        "senior": [
+            {
+                "id": "S061",
+                "name_en": "Three Little Pigs",
+                "name_zh": "三隻小豬",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2006/01_sol_s1.ppt"
+            },
+            {
+                "id": "S062",
+                "name_en": "Toggle",
+                "name_zh": "開關",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2006/01_sol_s2.ppt"
+            },
+            {
+                "id": "S063",
+                "name_en": "Squareland",
+                "name_zh": "方形大陸",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2006/01_sol_s3.ppt"
+            },
+            {
+                "id": "S064",
+                "name_en": "Tappy Game",
+                "name_zh": "塌片遊戲",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2006/01_sol_s4.ppt"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J061",
+                "name_en": "Expiry Date",
+                "name_zh": "有效日期",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "J062",
+                "name_en": "Bit Split",
+                "name_zh": "Bit Split",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "J063",
+                "name_en": "Sudoku",
+                "name_zh": "數獨",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2006/01_sol_j3.ppt"
+            },
+            {
+                "id": "J064",
+                "name_en": "Cave Adventures",
+                "name_zh": "山洞歷險",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2006/01_sol_j4.ppt"
+            }
+        ]
+    },
+    "2005": {
+        "senior": [
+            {
+                "id": "S051",
+                "name_en": "Symbolic Links",
+                "name_zh": "符號鏈結",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2005/01_sol_s1.ppt"
+            },
+            {
+                "id": "S052",
+                "name_en": "Land",
+                "name_zh": "土地",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2005/01_sol_s2.pdf"
+            },
+            {
+                "id": "S053",
+                "name_en": "Atlantis",
+                "name_zh": "阿特蘭提斯",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2005/01_sol_s3.ppt"
+            },
+            {
+                "id": "S054",
+                "name_en": "Gift",
+                "name_zh": "禮物",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2005/01_sol_s4.ppt"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J051",
+                "name_en": "Pattern Matching",
+                "name_zh": "模式匹配",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2005/01_sol_j1.ppt"
+            },
+            {
+                "id": "J052",
+                "name_en": "Whirlpool",
+                "name_zh": "漩渦",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2005/01_sol_j2.ppt"
+            },
+            {
+                "id": "J053",
+                "name_en": "Word Wrap",
+                "name_zh": "自動換行",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2005/01_sol_j3.ppt"
+            },
+            {
+                "id": "J054",
+                "name_en": "Competition",
+                "name_zh": "競賽",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2005/01_sol_j4.pdf"
+            }
+        ]
+    },
+    "2004": {
+        "senior": [
+            {
+                "id": "S041",
+                "name_en": "Credit Card",
+                "name_zh": "信用卡",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "S042",
+                "name_en": "Teacher's Problem",
+                "name_zh": "老師的難題",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2004/01_sol_s2.pdf"
+            },
+            {
+                "id": "S043",
+                "name_en": "Forecasting",
+                "name_zh": "預測",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2004/01_sol_s3.pdf"
+            },
+            {
+                "id": "S044",
+                "name_en": "Set Intersection",
+                "name_zh": "集的相交",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2004/01_sol_s4.pdf"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J041",
+                "name_en": "Traffic Lights",
+                "name_zh": "交通燈",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2004/01_sol_j1.pdf"
+            },
+            {
+                "id": "J042",
+                "name_en": "Currency Exchange",
+                "name_zh": "貨幣兌換",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2004/01_sol_j2.pdf"
+            },
+            {
+                "id": "J043",
+                "name_en": "Reversi",
+                "name_zh": "黑白棋",
+                "code": false,
+                "slides": false
+            },
+            {
+                "id": "J044",
+                "name_en": "Amazing Robot",
+                "name_zh": "神奇的機械人",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2004/01_sol_j4.pdf"
+            }
+        ]
+    }
+}
