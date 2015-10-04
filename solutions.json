@@ -226,7 +226,7 @@
                 "id": "S122",
                 "name_en": "Toothpicks",
                 "name_zh": "牙籤",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2012/Toothpick.pdf"
             },
             {
@@ -249,14 +249,14 @@
                 "id": "J121",
                 "name_en": "Outstanding Integer",
                 "name_zh": "優秀的整數",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
                 "id": "J122",
                 "name_en": "Hotel",
                 "name_zh": "酒店",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
@@ -270,7 +270,7 @@
                 "id": "J124",
                 "name_en": "Penicillin",
                 "name_zh": "青黴素",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2012/Penicillin.ppt"
             }
         ]

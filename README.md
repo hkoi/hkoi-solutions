@@ -54,13 +54,13 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
 | S121 | Infinite Coding |  | [Slides](http://assets.hkoi.org/training2012/Infinite%20Coding.pdf) |
-| S122 | Toothpicks |  | [Slides](http://assets.hkoi.org/training2012/Toothpick.pdf) |
+| S122 | Toothpicks | [Pascal](2012/S122.pas) [C++](2012/S122.cpp) | [Slides](http://assets.hkoi.org/training2012/Toothpick.pdf) |
 | S123 | Songs |  | [Slides](http://assets.hkoi.org/training2012/Songs.pptx) |
 | S124 | Gene Mutation |  | [Slides](http://assets.hkoi.org/training2012/GeneMutation.ppt) |
-| J121 | Outstanding Integer |  |  |
-| J122 | Hotel |  |  |
+| J121 | Outstanding Integer | [Pascal](2012/J121.pas) [C++](2012/J121.cpp) |  |
+| J122 | Hotel | [Pascal](2012/J122.pas) [C++](2012/J122.cpp) |  |
 | J123 | Cheating Dice |  | [Slides](http://assets.hkoi.org/training2012/Dice.pptx) |
-| J124 | Penicillin |  | [Slides](http://assets.hkoi.org/training2012/Penicillin.ppt) |
+| J124 | Penicillin | [Pascal](2012/J124.pas) [C++](2012/J124.cpp) | [Slides](http://assets.hkoi.org/training2012/Penicillin.ppt) |
 
 ###2011
 
