@@ -26,14 +26,14 @@
                 "id": "S153",
                 "name_en": "Secret Message",
                 "name_zh": "秘密訊息",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2015/sen3.pdf"
             },
             {
                 "id": "S154",
                 "name_en": "Monster Arena",
                 "name_zh": "妖魔擂台",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2015/sen4.pdf"
             }
         ],

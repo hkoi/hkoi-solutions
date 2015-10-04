@@ -13,8 +13,8 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | S150 | Enumeration (2014/15 Senior) | [Pascal](201415/S150.pas) [C++](201415/S150.cpp) |  |
 | S151 | Promotion Period | [Pascal](201415/S151.pas) [C++](201415/S151.cpp) | [Slides](http://assets.hkoi.org/training2015/sen1.pdf) |
 | S152 | Apple Garden | [Pascal](201415/S152.pas) [C++](201415/S152.cpp) | [Slides](http://assets.hkoi.org/training2015/sen2.pdf) |
-| S153 | Secret Message |  | [Slides](http://assets.hkoi.org/training2015/sen3.pdf) |
-| S154 | Monster Arena |  | [Slides](http://assets.hkoi.org/training2015/sen4.pdf) |
+| S153 | Secret Message | [Pascal](201415/S153.pas) [C++](201415/S153.cpp) | [Slides](http://assets.hkoi.org/training2015/sen3.pdf) |
+| S154 | Monster Arena | [Pascal](201415/S154.pas) [C++](201415/S154.cpp) | [Slides](http://assets.hkoi.org/training2015/sen4.pdf) |
 | J150 | Enumeration (2014/15 Junior) | [Pascal](201415/J150.pas) [C++](201415/J150.cpp) |  |
 | J151 | Inverse Problem | [Pascal](201415/J151.pas) [C++](201415/J151.cpp) | [Slides](http://assets.hkoi.org/training2015/jun1.pdf) |
 | J152 | Royal Bodyguard | [Pascal](201415/J152.pas) [C++](201415/J152.cpp) |  |
