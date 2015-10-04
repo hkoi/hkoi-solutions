@@ -132,7 +132,7 @@
                 "id": "J142",
                 "name_en": "Magic Stones",
                 "name_zh": "魔法石",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2014/jq2.pptx"
             },
             {
@@ -171,7 +171,7 @@
                 "id": "S133",
                 "name_en": "TB",
                 "name_zh": "結核病",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
@@ -187,7 +187,7 @@
                 "id": "J131",
                 "name_en": "Strategy Steps",
                 "name_zh": "策略階梯",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/solutions/2130.pptx"
             },
             {
@@ -201,7 +201,7 @@
                 "id": "J133",
                 "name_en": "Dryads",
                 "name_zh": "森林精靈",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2013/jun3.pdf"
             },
             {
