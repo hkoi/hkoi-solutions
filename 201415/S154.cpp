@@ -9,45 +9,61 @@ void check(int x1, int y1, int x2, int y2, int dir, int startdir, bool print) {
   a[x2][y2] = 1;
   xprev = x2;
   yprev = y2;
-  if (x2-x1 + abs(y1-y2) - 1 != m) return ;
+  if (x2 - x1 + abs(y1 - y2) - 1 != m) {
+    return ;
+  }
   int x = x1, y = y1, d = startdir;
   int count = 0;
   while (x != x2 || y != y2) {
     if (d == 2) {
-      if (a[x+1][y] == 1) {
+      if (a[x + 1][y] == 1) {
         x++;
       } else {
-        if (print) b[x][y] = (dir ? '\\' : '/');
+        if (print) {
+          b[x][y] = dir ? '\\' : '/';
+        }
         count++;
         d = dir;
         if (d == 0) {
           y--;
-          if (a[x][y] == 0) return ;
+          if (a[x][y] == 0) {
+            return ;
+          }
         }
         if (d == 1) {
           y++;
-          if (a[x][y] == 0) return ;
+          if (a[x][y] == 0) {
+            return ;
+          }
         }
       }
     } else if (d == 0) {
-      if (a[x][y-1] == 1) {
+      if (a[x][y - 1] == 1) {
         y--;
       } else {
-        if (print) b[x][y] = (dir ? '\\' : '/');
+        if (print) {
+          b[x][y] = dir ? '\\' : '/';
+        }
         count++;
         d = 2;
         x++;
-        if (a[x][y] == 0) return ;
+        if (a[x][y] == 0) {
+          return ;
+        }
       }
     } else {
-      if (a[x][y+1] == 1) {
+      if (a[x][y + 1] == 1) {
         y++;
       } else {
-        if (print) b[x][y] = (dir ? '\\' : '/');
+        if (print) {
+          b[x][y] = dir ? '\\' : '/';
+        }
         count++;
         d = 2;
         x++;
-        if (a[x][y] == 0) return ;
+        if (a[x][y] == 0) {
+          return ;
+        }
       }
     }
   }
@@ -62,38 +78,39 @@ void check(int x1, int y1, int x2, int y2, int dir, int startdir, bool print) {
       minstartdir = startdir;
     }
   } else {
-    for (int i=1; i<=n; i++) {
-      printf("%s\n", b[i]+1);
+    for (int i = 1; i <= n; i++) {
+      printf("%s\n", b[i] + 1);
     }
   }
 }
 int main() {
   scanf("%d", &n);
   char s[1001];
-  for (int i=1; i<=n; i++) {
+  for (int i = 1; i <= n; i++) {
     scanf("%s", s);
-    for (int j=0; j<n; j++) {
+    for (int j = 0; j < n; j++) {
       if (s[j] == '#') {
-        a[i][j+1] = 1;
+        a[i][j + 1] = 1;
         m++;
       }
-      b[i][j+1] = '.';
+      b[i][j + 1] = '.';
     }
-    b[i][n+1] = 0;
+    b[i][n + 1] = 0;
   }
-  for (int i=1; i<=n; i++) {
-    for (int j=1; j<=n; j++) {
+  for (int i = 1; i <= n; i++) {
+    for (int j = 1; j <= n; j++) {
       // 0 = left, 1 = right
       check(0, i, j, 0, 0, 2, false); // J
-      check(0, i, j, n+1, 1, 2, false); // L
-      check(0, i, n+1, j, j<=i ? 0 : 1, 2, false); // |
+      check(0, i, j, n + 1, 1, 2, false); // L
       if (i <= j) {
-        check(i, 0, j, n+1, 1, 1, false); // Z
+        check(0, i, n + 1, j, 1, 2, false); // |
+        check(i, 0, j, n + 1, 1, 1, false); // Z
       } else {
-        check(j, n+1, i, 0, 0, 0, false); 
+        check(0, i, n + 1, j, 0, 2, false); // |
+        check(j, n + 1, i, 0, 0, 0, false); 
       }
-      check(i, 0, n+1, j, 1, 1, false); // 7
-      check(i, n+1, n+1, j, 0, 0, false); // r
+      check(i, 0, n + 1, j, 1, 1, false); // 7
+      check(i, n + 1, n + 1, j, 0, 0, false); // r
     }
   }
   if (minimum != 999999) {
