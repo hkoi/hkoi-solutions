@@ -66,14 +66,14 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
-| S111 | Nuclear Reactor |  | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
-| S112 | Spectrum Identification |  | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
-| S113 | Gravity Game |  | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
-| S114 | Circular Circuit |  | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
-| J111 | WippiLeaks |  | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
-| J112 | Housekeeper |  | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
-| J113 | Factor Factory |  | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
-| J114 | Pyramid |  | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
+| S111 | Nuclear Reactor | [Pascal](2011/S111.pas) [C++](2011/S111.cpp) | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
+| S112 | Spectrum Identification | [Pascal](2011/S112.pas) [C++](2011/S112.cpp) | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
+| S113 | Gravity Game | [Pascal](2011/S113.pas) [C++](2011/S113.cpp) | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
+| S114 | Circular Circuit | [Pascal](2011/S114.pas) [C++](2011/S114.cpp) | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
+| J111 | WippiLeaks | [Pascal](2011/J111.pas) [C++](2011/J111.cpp) | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
+| J112 | Housekeeper | [Pascal](2011/J112.pas) [C++](2011/J112.cpp) | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
+| J113 | Factor Factory | [Pascal](2011/J113.pas) [C++](2011/J113.cpp) | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
+| J114 | Pyramid | [Pascal](2011/J114.pas) [C++](2011/J114.cpp) | [Slides](http://assets.hkoi.org/training2011/hkoi2011sol.pdf) |
 
 ###2010
 

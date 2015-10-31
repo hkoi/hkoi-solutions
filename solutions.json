@@ -281,28 +281,28 @@
                 "id": "S111",
                 "name_en": "Nuclear Reactor",
                 "name_zh": "核能反應器",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
             },
             {
                 "id": "S112",
                 "name_en": "Spectrum Identification",
                 "name_zh": "光譜辨認",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
             },
             {
                 "id": "S113",
                 "name_en": "Gravity Game",
                 "name_zh": "重力遊戲",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
             },
             {
                 "id": "S114",
                 "name_en": "Circular Circuit",
                 "name_zh": "環廻電路",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
             }
         ],
@@ -311,28 +311,28 @@
                 "id": "J111",
                 "name_en": "WippiLeaks",
                 "name_zh": "維特解密",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
             },
             {
                 "id": "J112",
                 "name_en": "Housekeeper",
                 "name_zh": "侍從的煩惱",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
             },
             {
                 "id": "J113",
                 "name_en": "Factor Factory",
                 "name_zh": "因數工廠",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
             },
             {
                 "id": "J114",
                 "name_en": "Pyramid",
                 "name_zh": "金字塔",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2011/hkoi2011sol.pdf"
             }
         ]
