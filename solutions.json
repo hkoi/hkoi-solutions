@@ -467,7 +467,7 @@
                 "id": "S081",
                 "name_en": "Black Day",
                 "name_zh": "黑色日子",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
@@ -497,28 +497,28 @@
                 "id": "J081",
                 "name_en": "Simple Calculator",
                 "name_zh": "簡單運算",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
                 "id": "J082",
                 "name_en": "Joining Metal Chains",
                 "name_zh": "鐵鍊接合",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
                 "id": "J083",
                 "name_en": "Count 1s",
                 "name_zh": "「1」的數量",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2008/01_sol_jq3.ppt"
             },
             {
                 "id": "J084",
                 "name_en": "Who Moved My Cheese",
                 "name_zh": "誰動了我的乳酪",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2008/01_sol_jq4.ppt"
             }
         ]

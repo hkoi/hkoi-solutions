@@ -105,14 +105,14 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
-| S081 | Black Day |  |  |
+| S081 | Black Day | [Pascal](2008/S081.pas) [C++](2008/S081.cpp) |  |
 | S082 | Shy Tortoise |  | [Slides](http://assets.hkoi.org/training2008/01_sol_sq2.ppt) |
 | S083 | Storage Box |  | [Slides](http://assets.hkoi.org/training2008/01_sol_sq3.ppt) |
 | S084 | Defense Line |  | [Slides](http://assets.hkoi.org/training2008/01_sol_sq4.ppt) |
-| J081 | Simple Calculator |  |  |
-| J082 | Joining Metal Chains |  |  |
-| J083 | Count 1s |  | [Slides](http://assets.hkoi.org/training2008/01_sol_jq3.ppt) |
-| J084 | Who Moved My Cheese |  | [Slides](http://assets.hkoi.org/training2008/01_sol_jq4.ppt) |
+| J081 | Simple Calculator | [Pascal](2008/J081.pas) [C++](2008/J081.cpp) |  |
+| J082 | Joining Metal Chains | [Pascal](2008/J082.pas) [C++](2008/J082.cpp) |  |
+| J083 | Count 1s | [Pascal](2008/J083.pas) [C++](2008/J083.cpp) | [Slides](http://assets.hkoi.org/training2008/01_sol_jq3.ppt) |
+| J084 | Who Moved My Cheese | [Pascal](2008/J084.pas) [C++](2008/J084.cpp) | [Slides](http://assets.hkoi.org/training2008/01_sol_jq4.ppt) |
 
 ###2007
 
