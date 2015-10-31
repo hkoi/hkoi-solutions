@@ -405,28 +405,28 @@
                 "id": "S091",
                 "name_en": "Colored Balls",
                 "name_zh": "顏色球",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
                 "id": "S092",
                 "name_en": "Santa's Gifts",
                 "name_zh": "聖誕禮物",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
                 "id": "S093",
                 "name_en": "Posters",
                 "name_zh": "海報",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
                 "id": "S094",
                 "name_en": "Reaching the Destination",
                 "name_zh": "向終點邁進",
-                "code": false,
+                "code": true,
                 "slides": false
             }
         ],
@@ -435,28 +435,28 @@
                 "id": "J091",
                 "name_en": "Set Union",
                 "name_zh": "集合並集",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
                 "id": "J092",
                 "name_en": "Dictionary",
                 "name_zh": "字典",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
                 "id": "J093",
                 "name_en": "Necklace",
                 "name_zh": "五彩繽紛的項鍊",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
                 "id": "J094",
                 "name_en": "Full",
                 "name_zh": "滿",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/solutions/2093.pptx"
             }
         ]

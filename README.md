@@ -92,14 +92,14 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
-| S091 | Colored Balls |  |  |
-| S092 | Santa's Gifts |  |  |
-| S093 | Posters |  |  |
-| S094 | Reaching the Destination |  |  |
-| J091 | Set Union |  |  |
-| J092 | Dictionary |  |  |
-| J093 | Necklace |  |  |
-| J094 | Full |  | [Slides](http://assets.hkoi.org/solutions/2093.pptx) |
+| S091 | Colored Balls | [Pascal](2009/S091.pas) [C++](2009/S091.cpp) |  |
+| S092 | Santa's Gifts | [Pascal](2009/S092.pas) [C++](2009/S092.cpp) |  |
+| S093 | Posters | [Pascal](2009/S093.pas) [C++](2009/S093.cpp) |  |
+| S094 | Reaching the Destination | [Pascal](2009/S094.pas) [C++](2009/S094.cpp) |  |
+| J091 | Set Union | [Pascal](2009/J091.pas) [C++](2009/J091.cpp) |  |
+| J092 | Dictionary | [Pascal](2009/J092.pas) [C++](2009/J092.cpp) |  |
+| J093 | Necklace | [Pascal](2009/J093.pas) [C++](2009/J093.cpp) |  |
+| J094 | Full | [Pascal](2009/J094.pas) [C++](2009/J094.cpp) | [Slides](http://assets.hkoi.org/solutions/2093.pptx) |
 
 ###2008
 
