@@ -580,7 +580,7 @@
                 "id": "J074",
                 "name_en": "Best Plan",
                 "name_zh": "最佳收費計劃",
-                "code": false,
+                "code": true,
                 "slides": false
             }
         ]
@@ -621,14 +621,14 @@
                 "id": "J061",
                 "name_en": "Expiry Date",
                 "name_zh": "有效日期",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
                 "id": "J062",
                 "name_en": "Bit Split",
                 "name_zh": "Bit Split",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
@@ -642,7 +642,7 @@
                 "id": "J064",
                 "name_en": "Cave Adventures",
                 "name_zh": "山洞歷險",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2006/01_sol_j4.ppt"
             }
         ]

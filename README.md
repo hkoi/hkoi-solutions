@@ -125,7 +125,7 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | J071 | Zoo Planning |  | [Slides](http://assets.hkoi.org/training2007/01_sol_jq1.pdf) |
 | J072 | Little Stage |  | [Slides](http://assets.hkoi.org/training2007/01_sol_jq2.ppt) |
 | J073 | Shuttle Bus |  |  |
-| J074 | Best Plan |  |  |
+| J074 | Best Plan | [Pascal](2007/J074.pas) [C++](2007/J074.cpp) |  |
 
 ###2006
 
@@ -135,10 +135,10 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | S062 | Toggle |  | [Slides](http://assets.hkoi.org/training2006/01_sol_s2.ppt) |
 | S063 | Squareland |  | [Slides](http://assets.hkoi.org/training2006/01_sol_s3.ppt) |
 | S064 | Tappy Game |  | [Slides](http://assets.hkoi.org/training2006/01_sol_s4.ppt) |
-| J061 | Expiry Date |  |  |
-| J062 | Bit Split |  |  |
+| J061 | Expiry Date | [Pascal](2006/J061.pas) [C++](2006/J061.cpp) |  |
+| J062 | Bit Split | [Pascal](2006/J062.pas) [C++](2006/J062.cpp) |  |
 | J063 | Sudoku |  | [Slides](http://assets.hkoi.org/training2006/01_sol_j3.ppt) |
-| J064 | Cave Adventures |  | [Slides](http://assets.hkoi.org/training2006/01_sol_j4.ppt) |
+| J064 | Cave Adventures | [Pascal](2006/J064.pas) [C++](2006/J064.cpp) | [Slides](http://assets.hkoi.org/training2006/01_sol_j4.ppt) |
 
 ###2005
 
