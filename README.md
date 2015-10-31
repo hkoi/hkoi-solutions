@@ -79,11 +79,11 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
-| S101 | Squares Dartboard |  |  |
+| S101 | Squares Dartboard | [Pascal](2010/S101.pas) [C++](2010/S101.cpp) |  |
 | S102 | Igloo |  | [Slides](http://assets.hkoi.org/training2010/igloo.pptx) |
 | S103 | Flexibility |  | [Slides](http://assets.hkoi.org/training2010/s3.pdf) |
 | S104 | OI Football Team |  | [Slides](http://assets.hkoi.org/training2010/s4.pdf) |
-| J101 | Numpad |  |  |
+| J101 | Numpad | [Pascal](2010/J101.pas) [C++](2010/J101.cpp) |  |
 | J102 | Quest for Polar Bear |  | [Slides](http://assets.hkoi.org/training2010/quest.pptx) |
 | J103 | Insect Galore |  | [Slides](http://assets.hkoi.org/training2010/insect.pptx) |
 | J104 | Reading Books |  | [Slides](http://assets.hkoi.org/training2010/score.pptx) |

@@ -343,7 +343,7 @@
                 "id": "S101",
                 "name_en": "Squares Dartboard",
                 "name_zh": "方形標靶",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
@@ -373,7 +373,7 @@
                 "id": "J101",
                 "name_en": "Numpad",
                 "name_zh": "數字鍵盤",
-                "code": false,
+                "code": true,
                 "slides": false
             },
             {
