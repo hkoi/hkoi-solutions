@@ -3,8 +3,8 @@
         "senior": [
             {
                 "id": "S150",
-                "name_en": "Enumeration (2014/15 Senior)",
-                "name_zh": "枚舉 (2014/15 高級組)",
+                "name_en": "Enumeration",
+                "name_zh": "枚舉",
                 "code": true,
                 "slides": false
             },
@@ -40,8 +40,8 @@
         "junior": [
             {
                 "id": "J150",
-                "name_en": "Enumeration (2014/15 Junior)",
-                "name_zh": "枚舉 (2014/15 初級組)",
+                "name_en": "Enumeration",
+                "name_zh": "枚舉",
                 "code": true,
                 "slides": false
             },
@@ -79,9 +79,9 @@
         "senior": [
             {
                 "id": "S140",
-                "name_en": "Enumeration (2014 Senior)",
-                "name_zh": "枚舉 (2014 高級組)",
-                "code": false,
+                "name_en": "Enumeration",
+                "name_zh": "枚舉",
+                "code": true,
                 "slides": false
             },
             {
@@ -116,9 +116,9 @@
         "junior": [
             {
                 "id": "J140",
-                "name_en": "Enumeration (2014 Junior)",
-                "name_zh": "枚舉 (2014 初級組)",
-                "code": false,
+                "name_en": "Enumeration",
+                "name_zh": "枚舉",
+                "code": true,
                 "slides": false
             },
             {

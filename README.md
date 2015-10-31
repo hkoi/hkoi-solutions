@@ -10,12 +10,12 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
-| S150 | Enumeration (2014/15 Senior) | [Pascal](201415/S150.pas) [C++](201415/S150.cpp) |  |
+| S150 | Enumeration | [Pascal](201415/S150.pas) [C++](201415/S150.cpp) |  |
 | S151 | Promotion Period | [Pascal](201415/S151.pas) [C++](201415/S151.cpp) | [Slides](http://assets.hkoi.org/training2015/sen1.pdf) |
 | S152 | Apple Garden | [Pascal](201415/S152.pas) [C++](201415/S152.cpp) | [Slides](http://assets.hkoi.org/training2015/sen2.pdf) |
 | S153 | Secret Message | [Pascal](201415/S153.pas) [C++](201415/S153.cpp) | [Slides](http://assets.hkoi.org/training2015/sen3.pdf) |
 | S154 | Monster Arena | [Pascal](201415/S154.pas) [C++](201415/S154.cpp) | [Slides](http://assets.hkoi.org/training2015/sen4.pdf) |
-| J150 | Enumeration (2014/15 Junior) | [Pascal](201415/J150.pas) [C++](201415/J150.cpp) |  |
+| J150 | Enumeration | [Pascal](201415/J150.pas) [C++](201415/J150.cpp) |  |
 | J151 | Inverse Problem | [Pascal](201415/J151.pas) [C++](201415/J151.cpp) | [Slides](http://assets.hkoi.org/training2015/jun1.pdf) |
 | J152 | Royal Bodyguard | [Pascal](201415/J152.pas) [C++](201415/J152.cpp) |  |
 | J153 | Insert Delete | [Pascal](201415/J153.pas) [C++](201415/J153.cpp) | [Slides](http://assets.hkoi.org/training2015/jun3.pdf) |
@@ -25,12 +25,12 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 
 | ID | Name | Code | Slides |
 | ------ | ------ | ------ | ------ |
-| S140 | Enumeration (2014 Senior) |  |  |
+| S140 | Enumeration | [Pascal](2014/S140.pas) [C++](2014/S140.cpp) |  |
 | S141 | Dividing the Cities |  |  |
 | S142 | Gene Mutation 2 |  | [Slides](http://assets.hkoi.org/training2014/sq2.pptx) |
 | S143 | Input Method | [Pascal](2014/S143.pas) [C++](2014/S143.cpp) | [Slides](http://assets.hkoi.org/training2014/sq3.pdf) |
 | S144 | Pharmaceutical Company |  | [Slides](http://assets.hkoi.org/training2014/sq4.pptx) |
-| J140 | Enumeration (2014 Junior) |  |  |
+| J140 | Enumeration | [Pascal](2014/J140.pas) [C++](2014/J140.cpp) |  |
 | J141 | Phone Menu | [Pascal](2014/J141.pas) [C++](2014/J141.cpp) |  |
 | J142 | Magic Stones | [Pascal](2014/J142.pas) [C++](2014/J142.cpp) | [Slides](http://assets.hkoi.org/training2014/jq2.pptx) |
 | J143 | Power Socket | [Pascal](2014/J143.pas) [C++](2014/J143.cpp) | [Slides](http://assets.hkoi.org/training2014/jq3.pdf) |
