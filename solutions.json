@@ -146,7 +146,7 @@
                 "id": "J144",
                 "name_en": "Fair Santa Claus",
                 "name_zh": "公平的聖誕老人",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2014/jq4.pdf"
             }
         ]
@@ -194,7 +194,7 @@
                 "id": "J132",
                 "name_en": "Queueing",
                 "name_zh": "排隊輪候",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/training2013/jun2.pptx"
             },
             {
@@ -208,7 +208,7 @@
                 "id": "J134",
                 "name_en": "Lucky Rainbow",
                 "name_zh": "幸運彩虹",
-                "code": false,
+                "code": true,
                 "slides": "http://assets.hkoi.org/solutions/2133.pptx"
             }
         ]

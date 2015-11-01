@@ -34,7 +34,7 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | J141 | Phone Menu | [Pascal](2014/J141.pas) [C++](2014/J141.cpp) |  |
 | J142 | Magic Stones | [Pascal](2014/J142.pas) [C++](2014/J142.cpp) | [Slides](http://assets.hkoi.org/training2014/jq2.pptx) |
 | J143 | Power Socket | [Pascal](2014/J143.pas) [C++](2014/J143.cpp) | [Slides](http://assets.hkoi.org/training2014/jq3.pdf) |
-| J144 | Fair Santa Claus |  | [Slides](http://assets.hkoi.org/training2014/jq4.pdf) |
+| J144 | Fair Santa Claus | [Pascal](2014/J144.pas) [C++](2014/J144.cpp) | [Slides](http://assets.hkoi.org/training2014/jq4.pdf) |
 
 ###2013
 
@@ -45,9 +45,9 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 | S133 | TB | [Pascal](2013/S133.pas) [C++](2013/S133.cpp) |  |
 | S134 | Unfair Santa Claus |  | [Slides](http://assets.hkoi.org/training2013/sen4.pdf) |
 | J131 | Strategy Steps | [Pascal](2013/J131.pas) [C++](2013/J131.cpp) | [Slides](http://assets.hkoi.org/solutions/2130.pptx) |
-| J132 | Queueing |  | [Slides](http://assets.hkoi.org/training2013/jun2.pptx) |
+| J132 | Queueing | [Pascal](2013/J132.pas) [C++](2013/J132.cpp) | [Slides](http://assets.hkoi.org/training2013/jun2.pptx) |
 | J133 | Dryads | [Pascal](2013/J133.pas) [C++](2013/J133.cpp) | [Slides](http://assets.hkoi.org/training2013/jun3.pdf) |
-| J134 | Lucky Rainbow |  | [Slides](http://assets.hkoi.org/solutions/2133.pptx) |
+| J134 | Lucky Rainbow | [Pascal](2013/J134.pas) [C++](2013/J134.cpp) | [Slides](http://assets.hkoi.org/solutions/2133.pptx) |
 
 ###2012
 
