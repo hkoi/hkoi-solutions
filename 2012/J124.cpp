@@ -16,7 +16,7 @@ int main() {
     int y1 = max(0, y[i] - t);
     int y2 = min(h, y[i] + t);
     sum += 1LL * (x2 - x1) * (y2 - y1);
-    long long d = min(1000000LL, 1LL * s * t);
+    int d = min(1000000LL, 1LL * s * t);
     int x3 = max(0, xx - d);
     int x4 = min(w, xx + d);
     int y3 = max(0, yy - d);

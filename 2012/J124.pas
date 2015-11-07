@@ -30,9 +30,10 @@ begin
     y1 := max(0, y[i] - t);
     y2 := min(h, y[i] + t);
     sum := sum + int64(x2 - x1) * (y2 - y1);
-    d := int64(s) * t;
-    if (d > 1000000) then
-      d := 1000000;
+    if (int64(s) * t > 1000000) then
+      d := 1000000
+    else
+      d := longint(int64(s) * t);
     x3 := max(0, xx - d);
     x4 := min(w, xx + d);
     y3 := max(0, yy - d);
