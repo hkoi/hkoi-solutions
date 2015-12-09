@@ -21,7 +21,12 @@ begin
     if (count mod 3 = 2) then
       inc(twos)
   end;
-  ans := threes * 2 + twos;
+  if (m >= threes + twos) then
+    ans := threes * 2 + twos
+  else if (m <= threes) then
+    ans := m * 2
+  else
+    ans := threes + m;
   if (ans + m > n) then
     ans := n - m;
   writeln(ans)

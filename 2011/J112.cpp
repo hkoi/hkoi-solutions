@@ -18,10 +18,17 @@ int main() {
       twos++;
     }
   }
-  int ans = threes * 2 + twos;
+  int ans;
+  if (m >= threes + twos) {
+    ans = threes * 2 + twos;
+  } else if (m <= threes) {
+    ans = m * 2;
+  } else {
+    ans = threes + m;
+  }
   if (ans + m > n) {
     ans = n - m;
   }
-  printf("%d\n",  ans);
+  printf("%d\n", ans);
   return 0;
 }
