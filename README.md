@@ -6,6 +6,19 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 
 ##Solutions
 
+###2015/16
+
+| ID | Name | Code | Slides |
+| ------ | ------ | ------ | ------ |
+| S161 | Military Training |  | [Slides](http://assets.hkoi.org/training2016/2016-sen1.pdf) |
+| S162 | Robos' Feast |  | [Slides](http://assets.hkoi.org/training2016/2016-sen2.pdf) |
+| S163 | Arithmetic Sequence |  | [Slides](http://assets.hkoi.org/training2016/2016-sen3.pdf) |
+| S164 | Alice's Meal |  | [Slides](http://assets.hkoi.org/training2016/2016-sen4.pdf) |
+| J161 | Model Answer |  | [Slides](http://assets.hkoi.org/training2016/2016-jun1.pdf) |
+| J162 | Time Zones |  | [Slides](http://assets.hkoi.org/training2016/2016-jun2.pdf) |
+| J163 | Stone Game |  | [Slides](http://assets.hkoi.org/training2016/2016-jun3.pdf) |
+| J164 | Candy Factory |  | [Slides](http://assets.hkoi.org/training2016/2016-jun4.pdf) |
+
 ###2014/15
 
 | ID | Name | Code | Slides |

@@ -9,6 +9,7 @@ process.stdout.write('\n\n##Solutions\n\n');
 var json = fs.readFileSync("solutions.json");
 var solutions = JSON.parse(json);
 var years = Object.keys(solutions);
+years.sort();
 var groups = ['senior', 'junior'];
 for (var i = years.length - 1; i >= 0; i--) {
     var year = years[i];

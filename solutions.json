@@ -1,4 +1,66 @@
 {
+    "2015/16": {
+        "senior": [
+            {
+                "id": "S161",
+                "name_en": "Military Training",
+                "name_zh": "軍事訓練",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2016/2016-sen1.pdf"
+            },
+            {
+                "id": "S162",
+                "name_en": "Robos' Feast",
+                "name_zh": "露寶的盛宴",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2016/2016-sen2.pdf"
+            },
+            {
+                "id": "S163",
+                "name_en": "Arithmetic Sequence",
+                "name_zh": "等差數列",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2016/2016-sen3.pdf"
+            },
+            {
+                "id": "S164",
+                "name_en": "Alice's Meal",
+                "name_zh": "愛麗斯的餐點",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2016/2016-sen4.pdf"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J161",
+                "name_en": "Model Answer",
+                "name_zh": "標準答案",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2016/2016-jun1.pdf"
+            },
+            {
+                "id": "J162",
+                "name_en": "Time Zones",
+                "name_zh": "時區轉換",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2016/2016-jun2.pdf"
+            },
+            {
+                "id": "J163",
+                "name_en": "Stone Game",
+                "name_zh": "石頭遊戲",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2016/2016-jun3.pdf"
+            },
+            {
+                "id": "J164",
+                "name_en": "Candy Factory",
+                "name_zh": "糖果工廠",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2016/2016-jun4.pdf"
+            }
+        ]
+    },
     "2014/15": {
         "senior": [
             {
