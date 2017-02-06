@@ -1,4 +1,66 @@
 {
+    "2016/17": {
+        "senior": [
+            {
+                "id": "S171",
+                "name_en": "TV Ratings",
+                "name_zh": "電視收視",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2017/S171.pdf"
+            },
+            {
+                "id": "S172",
+                "name_en": "Degradion",
+                "name_zh": "弱化術",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2017/S172.pdf"
+            },
+            {
+                "id": "S173",
+                "name_en": "Monster GO",
+                "name_zh": "捕捉怪獸",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2017/S173.pdf"
+            },
+            {
+                "id": "S174",
+                "name_en": "Magic Triangle II",
+                "name_zh": "魔幻三角 II",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2017/S174.pdf"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J171",
+                "name_en": "Acronym",
+                "name_zh": "縮寫",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2017/J171.pdf"
+            },
+            {
+                "id": "J172",
+                "name_en": "Card Game",
+                "name_zh": "紙牌遊戲",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2017/J172.pdf"
+            },
+            {
+                "id": "J173",
+                "name_en": "Fibonacci Word",
+                "name_zh": "斐波納契字串",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2017/J173.pdf"
+            },
+            {
+                "id": "J174",
+                "name_en": "Crosses",
+                "name_zh": "交叉",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2017/J174.pdf"
+            }
+        ]
+    },
     "2015/16": {
         "senior": [
             {

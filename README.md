@@ -6,6 +6,19 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 
 ##Solutions
 
+###2016/17
+
+| ID | Name | Code | Slides |
+| ------ | ------ | ------ | ------ |
+| S171 | TV Ratings |  | [Slides](http://assets.hkoi.org/training2017/S171.pdf) |
+| S172 | Degradion |  | [Slides](http://assets.hkoi.org/training2017/S172.pdf) |
+| S173 | Monster GO |  | [Slides](http://assets.hkoi.org/training2017/S173.pdf) |
+| S174 | Magic Triangle II |  | [Slides](http://assets.hkoi.org/training2017/S174.pdf) |
+| J171 | Acronym |  | [Slides](http://assets.hkoi.org/training2017/J171.pdf) |
+| J172 | Card Game |  | [Slides](http://assets.hkoi.org/training2017/J172.pdf) |
+| J173 | Fibonacci Word |  | [Slides](http://assets.hkoi.org/training2017/J173.pdf) |
+| J174 | Crosses |  | [Slides](http://assets.hkoi.org/training2017/J174.pdf) |
+
 ###2015/16
 
 | ID | Name | Code | Slides |
