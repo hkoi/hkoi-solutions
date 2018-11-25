@@ -1,4 +1,66 @@
 {
+    "2017/18": {
+        "senior": [
+            {
+                "id": "S181",
+                "name_en": "Odd is Odd",
+                "name_zh": "奇怪的奇數",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2018/S181.pdf"
+            },
+            {
+                "id": "S182",
+                "name_en": "Tournament",
+                "name_zh": "聯賽",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2018/S182.pdf"
+            },
+            {
+                "id": "S183",
+                "name_en": "Desktop Icons",
+                "name_zh": "桌面圖案",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2018/S183.pdf"
+            },
+            {
+                "id": "S184",
+                "name_en": "Bogo Translate",
+                "name_zh": "Bogo 翻譯",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2018/S184.pdf"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J181",
+                "name_en": "Wings and Nuggets",
+                "name_zh": "雞翼與雞塊",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2018/J181.pdf"
+            },
+            {
+                "id": "J182",
+                "name_en": "Rope",
+                "name_zh": "繩",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2018/J182.pdf"
+            },
+            {
+                "id": "J183",
+                "name_en": "Shortest Path",
+                "name_zh": "最短路徑",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2018/J183.pdf"
+            },
+            {
+                "id": "J184",
+                "name_en": "Mysterious Area",
+                "name_zh": "神秘的海域",
+                "code": false,
+                "slides": "http://assets.hkoi.org/training2018/J184.pdf"
+            }
+        ]
+    },
     "2016/17": {
         "senior": [
             {

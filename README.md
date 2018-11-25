@@ -6,6 +6,19 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 
 ##Solutions
 
+###2017/18
+
+| ID | Name | Code | Slides |
+| ------ | ------ | ------ | ------ |
+| S181 | Odd is Odd |  | [Slides](http://assets.hkoi.org/training2018/S181.pdf) |
+| S182 | Tournament |  | [Slides](http://assets.hkoi.org/training2018/S182.pdf) |
+| S183 | Desktop Icons |  | [Slides](http://assets.hkoi.org/training2018/S183.pdf) |
+| S184 | Bogo Translate |  | [Slides](http://assets.hkoi.org/training2018/S184.pdf) |
+| J181 | Wings and Nuggets |  | [Slides](http://assets.hkoi.org/training2018/J181.pdf) |
+| J182 | Rope |  | [Slides](http://assets.hkoi.org/training2018/J182.pdf) |
+| J183 | Shortest Path |  | [Slides](http://assets.hkoi.org/training2018/J183.pdf) |
+| J184 | Mysterious Area |  | [Slides](http://assets.hkoi.org/training2018/J184.pdf) |
+
 ###2016/17
 
 | ID | Name | Code | Slides |
