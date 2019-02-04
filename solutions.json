@@ -1,4 +1,66 @@
 {
+    "2018/19": {
+        "senior": [
+            {
+                "id": "S191",
+                "name_en": "Unstoppable Onslaught ",
+                "name_zh": "猛烈狂擊",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2019/S191.pdf"
+            },
+            {
+                "id": "S192",
+                "name_en": "Two Towers",
+                "name_zh": "雙城奇謀",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2019/S192.pdf"
+            },
+            {
+                "id": "S193",
+                "name_en": "Alice's Housekeeper",
+                "name_zh": "愛麗絲的管家",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2019/S193.pdf"
+            },
+            {
+                "id": "S194",
+                "name_en": "Snakes and Snakes",
+                "name_zh": "蛇蛇棋",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2019/S194.pdf"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J191",
+                "name_en": "Alice and Wings",
+                "name_zh": "愛麗絲與雞翼",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2019/J191.pdf"
+            },
+            {
+                "id": "J192",
+                "name_en": "Bigger, Better",
+                "name_zh": "越大越好",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2019/J192.pdf"
+            },
+            {
+                "id": "J193",
+                "name_en": "Hyper Knight II",
+                "name_zh": "超級騎士 II",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2019/J193.pdf"
+            },
+            {
+                "id": "J194",
+                "name_en": "Graffiti",
+                "name_zh": "塗鴉",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2019/J194.pdf"
+            }
+        ]
+    },
     "2017/18": {
         "senior": [
             {
