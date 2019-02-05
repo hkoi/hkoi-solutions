@@ -305,7 +305,7 @@
                 "name_en": "Royal Bodyguard",
                 "name_zh": "皇家護衛",
                 "code": true,
-                "slides": false
+                "slides": "https://assets.hkoi.org/training2015/jun2.pdf"
             },
             {
                 "id": "J153",
