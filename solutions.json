@@ -1,9 +1,57 @@
 {
+    "2020/21": {
+        "senior": [
+            {
+                "id": "S211",
+                "name_en": "Skyscraperhenge",
+                "name_zh": "巨廈陣",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2021/S211.pdf"
+            },
+            {
+                "id": "S212",
+                "name_en": "Super Chat",
+                "name_zh": "超級留言",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2021/S212.pdf"
+            },
+            {
+                "id": "S213",
+                "name_en": "Chinese Checkers",
+                "name_zh": "波子棋",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2021/S213.pdf"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J211",
+                "name_en": "Paint Shop",
+                "name_zh": "油漆商店",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2021/J211.pdf"
+            },
+            {
+                "id": "J212",
+                "name_en": "Paint the Floor",
+                "name_zh": "地板塗漆",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2021/J212.pdf"
+            },
+            {
+                "id": "J213",
+                "name_en": "Paint the Wall",
+                "name_zh": "牆壁塗漆",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2021/J213.pdf"
+            }
+        ]
+    },
     "2018/19": {
         "senior": [
             {
                 "id": "S191",
-                "name_en": "Unstoppable Onslaught ",
+                "name_en": "Unstoppable Onslaught",
                 "name_zh": "猛烈狂擊",
                 "code": false,
                 "slides": "https://assets.hkoi.org/training2019/S191.pdf"
