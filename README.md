@@ -6,6 +6,19 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 
 ## Solutions
 
+### 2021/22
+
+| ID | Name | Code | Slides |
+| ------ | ------ | ------ | ------ |
+| S221 | Hotel Rankings |  | [Slides](https://assets.hkoi.org/training2022/S221.pdf) |
+| S222 | Gathering |  | [Slides](https://assets.hkoi.org/training2022/S222.pdf) |
+| S223 | Pixel Math Puzzle |  | [Slides](https://assets.hkoi.org/training2022/S223.pdf) |
+| S224 | Connectors |  | [Slides](https://assets.hkoi.org/training2022/S224.pdf) |
+| J221 | Bus Route Category |  | [Slides](https://assets.hkoi.org/training2022/J221.pdf) |
+| J222 | Spicy Ramen |  | [Slides](https://assets.hkoi.org/training2022/J222.pdf) |
+| J223 | Ice Cream |  | [Slides](https://assets.hkoi.org/training2022/J223.pdf) |
+| J224 | Digit Implant Strategy |  | [Slides](https://assets.hkoi.org/training2022/J224.pdf) |
+
 ### 2020/21
 
 | ID | Name | Code | Slides |

@@ -1,4 +1,66 @@
 {
+    "2021/22": {
+        "senior": [
+            {
+                "id": "S221",
+                "name_en": "Hotel Rankings",
+                "name_zh": "酒店排名",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2022/S221.pdf"
+            },
+            {
+                "id": "S222",
+                "name_en": "Gathering",
+                "name_zh": "集合啦",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2022/S222.pdf"
+            },
+            {
+                "id": "S223",
+                "name_en": "Pixel Math Puzzle",
+                "name_zh": "像素數學謎題",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2022/S223.pdf"
+            },
+            {
+                "id": "S224",
+                "name_en": "Connectors",
+                "name_zh": "連接器",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2022/S224.pdf"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J221",
+                "name_en": "Bus Route Category",
+                "name_zh": "巴士路線分類",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2022/J221.pdf"
+            },
+            {
+                "id": "J222",
+                "name_en": "Spicy Ramen",
+                "name_zh": "辣辣拉麵",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2022/J222.pdf"
+            },
+            {
+                "id": "J223",
+                "name_en": "Ice Cream",
+                "name_zh": "食軟雪糕",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2022/J223.pdf"
+            },
+            {
+                "id": "J224",
+                "name_en": "Digit Implant Strategy",
+                "name_zh": "數位植入策略",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2022/J224.pdf"
+            }
+        ]
+    },
     "2020/21": {
         "senior": [
             {
