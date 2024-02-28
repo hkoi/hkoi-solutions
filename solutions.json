@@ -1,4 +1,128 @@
 {
+    "2023/24": {
+        "senior": [
+            {
+                "id": "S241",
+                "name_en": "Mirror Horror",
+                "name_zh": "鏡像恐懼",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2024/S241.pdf"
+            },
+            {
+                "id": "S242",
+                "name_en": "Path of Infinity",
+                "name_zh": "無限之路",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2024/S242.pdf"
+            },
+            {
+                "id": "S243",
+                "name_en": "Stop the Avalanche!",
+                "name_zh": "阻止雪崩！",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2024/S243.pdf"
+            },
+            {
+                "id": "S244",
+                "name_en": "Group Photo",
+                "name_zh": "大合照",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2024/S244.pdf"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J241",
+                "name_en": "Watermelon Game",
+                "name_zh": "西瓜遊戲",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2024/J241.pdf"
+            },
+            {
+                "id": "J242",
+                "name_en": "Digit Cipher",
+                "name_zh": "數位密碼",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2024/J242.pdf"
+            },
+            {
+                "id": "J243",
+                "name_en": "Neat Corridor",
+                "name_zh": "整潔的走廊",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2024/J243.pdf"
+            },
+            {
+                "id": "J244",
+                "name_en": "Passing Rate",
+                "name_zh": "合格率",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2024/J244.pdf"
+            }
+        ]
+    },
+    "2022/23": {
+        "senior": [
+            {
+                "id": "S231",
+                "name_en": "Ambiguous Undecimal System",
+                "name_zh": "含糊的十一進制系統",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2023/S231.pdf"
+            },
+            {
+                "id": "S232",
+                "name_en": "Team Formation",
+                "name_zh": "組隊",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2023/S232.pdf"
+            },
+            {
+                "id": "S233",
+                "name_en": "Doctor String in the Coordinates of Madness",
+                "name_zh": "字串博士：失控座標系統",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2023/S233.pdf"
+            },
+            {
+                "id": "S234",
+                "name_en": "Triangle Tour",
+                "name_zh": "三角形周遊",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2023/S234.pdf"
+            }
+        ],
+        "junior": [
+            {
+                "id": "J231",
+                "name_en": "Bubble Tea Shop",
+                "name_zh": "手搖飲品店",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2023/J231.pdf"
+            },
+            {
+                "id": "J232",
+                "name_en": "Move Pads",
+                "name_zh": "輸送板",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2023/J232.pdf"
+            },
+            {
+                "id": "J233",
+                "name_en": "Mechanical Grid",
+                "name_zh": "機械網格",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2023/J233.pdf"
+            },
+            {
+                "id": "J234",
+                "name_en": "Rotating Needle",
+                "name_zh": "旋轉的指針",
+                "code": false,
+                "slides": "https://assets.hkoi.org/training2023/J234.pdf"
+            }
+        ]
+    },
     "2021/22": {
         "senior": [
             {

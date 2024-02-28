@@ -6,6 +6,32 @@ Creative Commons Attribution-ShareAlike 4.0 International. The full text of the 
 
 ## Solutions
 
+### 2023/24
+
+| ID | Name | Code | Slides |
+| ------ | ------ | ------ | ------ |
+| S241 | Mirror Horror |  | [Slides](https://assets.hkoi.org/training2024/S241.pdf) |
+| S242 | Path of Infinity |  | [Slides](https://assets.hkoi.org/training2024/S242.pdf) |
+| S243 | Stop the Avalanche! |  | [Slides](https://assets.hkoi.org/training2024/S243.pdf) |
+| S244 | Group Photo |  | [Slides](https://assets.hkoi.org/training2024/S244.pdf) |
+| J241 | Watermelon Game |  | [Slides](https://assets.hkoi.org/training2024/J241.pdf) |
+| J242 | Digit Cipher |  | [Slides](https://assets.hkoi.org/training2024/J242.pdf) |
+| J243 | Neat Corridor |  | [Slides](https://assets.hkoi.org/training2024/J243.pdf) |
+| J244 | Passing Rate |  | [Slides](https://assets.hkoi.org/training2024/J244.pdf) |
+
+### 2022/23
+
+| ID | Name | Code | Slides |
+| ------ | ------ | ------ | ------ |
+| S231 | Ambiguous Undecimal System |  | [Slides](https://assets.hkoi.org/training2023/S231.pdf) |
+| S232 | Team Formation |  | [Slides](https://assets.hkoi.org/training2023/S232.pdf) |
+| S233 | Doctor String in the Coordinates of Madness |  | [Slides](https://assets.hkoi.org/training2023/S233.pdf) |
+| S234 | Triangle Tour |  | [Slides](https://assets.hkoi.org/training2023/S234.pdf) |
+| J231 | Bubble Tea Shop |  | [Slides](https://assets.hkoi.org/training2023/J231.pdf) |
+| J232 | Move Pads |  | [Slides](https://assets.hkoi.org/training2023/J232.pdf) |
+| J233 | Mechanical Grid |  | [Slides](https://assets.hkoi.org/training2023/J233.pdf) |
+| J234 | Rotating Needle |  | [Slides](https://assets.hkoi.org/training2023/J234.pdf) |
+
 ### 2021/22
 
 | ID | Name | Code | Slides |
